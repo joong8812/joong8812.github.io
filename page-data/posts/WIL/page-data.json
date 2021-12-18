@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/WIL",
+    "result": {"pageContext":{"currentCategory":"WIL","categories":["All","WIL","TIL"],"edges":[{"node":{"id":"be7114a0-db94-57f6-80a7-cb89207dedd0","excerpt":"Facts 지난 월요일,  교육이 시작 되었다. 100명의 교육생이 에 모여 하루 12시간씩 몰입하여 공부하였다. 이번 주는 파이썬 기초, 웹프로그래밍, 자료구조/알고리즘 강의를 통해 지식과 기술을 습득하였다. 그리고 스스로 학습의 방향을 잘 잡을 수 있도록 수요일에는  시간을 가졌다. 주어진 1시간 30분동안 제시해 준 화면과 기능 구현하는 것이다. 5명이 한 팀을 이루었다. 매일  스터디를 진행 중이다. Feelings 로 커리어로 전환하고자 결심 한 뒤, 혼자 공부하고 준비하는 게 너무 외로웠다. 스파르타에서 같은 목표를 가진 동료들을 99명이나 만나게 되어 정말 행복하다. 실제로 교육을 진행하면서 슬랙 혹은 게더타운에서 서로 모르고 어려운 것을 질문하고 답을 하며 소통하니 문제들이 빨리 해결되었다. 학습자료가 주어지고 스스로 공부를 하는 교육이다 보니, 처음에는 너무 방치(?) 해 두는 건 아닌가 싶었는데, 조금씩 적응을 하면서 가 되도록 돕는 스파르타만의 특별한 교육방식인…","fields":{"slug":"/WIL/WIL-2021-12/WIL-2112-week3/"},"frontmatter":{"categories":"WIL","title":"Week I Learned - 2112-week3","date":"December 18, 2021"}},"next":{"fields":{"slug":"/TIL/TIL-2021-12/TIL-211217/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
