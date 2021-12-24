@@ -2,7 +2,7 @@
 emoji: ☀️
 title: Week I Learned - 2112-week3
 date: '2021-12-18 15:00:00'
-author: 비럽코더
+author: 코딩쿠니
 tags: WIL
 categories: WIL
 --- 
