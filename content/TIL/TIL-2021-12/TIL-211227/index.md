@@ -4,7 +4,7 @@ title: Today I Learned - 211227
 date: '2021-12-27 14:00:00'
 author: 코딩쿠니
 tags: TIL Git
-categories: TIL
+categories: TIL GIT
 ---
 ## 핵심 쏙쏙 Git - 숙제
 ### 1. 앞으로 git 프로젝트로 만들고 싶은 것

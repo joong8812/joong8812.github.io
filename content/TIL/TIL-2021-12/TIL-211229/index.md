@@ -4,7 +4,7 @@ title: Today I Learned - 211229
 date: '2021-12-29 23:00:00'
 author: 코딩쿠니
 tags: TIL TeamProject Flask Github
-categories: TIL
+categories: TIL PROJECT CSS FLASK
 ---
 
 ### 1. 뭘 모르겠는데 일단 해보자

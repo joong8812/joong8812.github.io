@@ -4,7 +4,7 @@ title: Today I Learned - 220105
 date: '2022-01-05 16:20:00'
 author: 코딩쿠니
 tags: TIL Git Github Opensource
-categories: TIL
+categories: TIL GIT
 ---
 
 ## 1. 내가 정리한 Git 3주차 개념지도

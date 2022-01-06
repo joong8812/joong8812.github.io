@@ -4,7 +4,7 @@ title: Today I Learned - 211224
 date: '2021-12-24 21:00:00'
 author: 코딩쿠니
 tags: TIL html css Project Instagram
-categories: TIL
+categories: TIL PROJECT
 ---
 ## 인스타그램 모바일 화면 만들기
 ### 1. 개요

@@ -4,7 +4,7 @@ title: Today I Learned - 211228
 date: '2021-12-28 23:00:00'
 author: 코딩쿠니
 tags: TIL TeamProject Wireframe Rest Git
-categories: TIL
+categories: TIL PROJECT
 ---
 
 ### 1. 대격변

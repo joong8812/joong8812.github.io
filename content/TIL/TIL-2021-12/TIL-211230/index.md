@@ -4,7 +4,7 @@ title: Today I Learned - 211230
 date: '2021-12-30 23:00:00'
 author: 코딩쿠니
 tags: TIL TeamProject 
-categories: TIL
+categories: TIL PROJECT
 ---
 
 ## 어제 보다 나은 오늘

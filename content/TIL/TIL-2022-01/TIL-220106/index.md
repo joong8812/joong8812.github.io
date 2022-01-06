@@ -4,7 +4,7 @@ title: Today I Learned - 220106
 date: '2022-01-06 14:00:00'
 author: 코딩쿠니
 tags: TIL AI Regression Colab
-categories: TIL
+categories: TIL AI
 ---
 
 # 머신러닝 1주차 Homework

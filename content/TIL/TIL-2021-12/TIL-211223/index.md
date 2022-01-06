@@ -4,7 +4,7 @@ title: Today I Learned - 211223
 date: '2021-12-23 21:00:00'
 author: 코딩쿠니
 tags: TIL html css Project KakaoTalk
-categories: TIL
+categories: TIL PROJECT
 ---
 
 ## 카카오톡 프로필 클론하기

@@ -4,7 +4,7 @@ title: 스파르타코딩클럽 AI웹개발 1기(인스타그램 클론 코딩 �
 date: '2022-01-04 19:00:00'
 author: 코딩쿠니
 tags: TIL KPT 스파르타코딩클럽 AI
-categories: KPT
+categories: KPT PROJECT
 ---
 
 ## 1. 드디어 9velopment의 첫번째 팀프로젝트를 마쳤다. 💪
