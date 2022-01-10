@@ -3,7 +3,7 @@ emoji: 🔖
 title: Today I Learned - 220109
 date: '2022-01-09 18:00:00'
 author: 코딩쿠니
-tags: TIL AI DeepLearning Colab
+tags: TIL Python WebScraping
 categories: TIL PYTHON WEBSCRAPING
 ---
 
@@ -85,3 +85,6 @@ def get_jobs():
 * BeautifulSoup은 정말 뷰티풀하다. 원하는 데이터 뽑기가 정말 좋다.
 * 컨테스트 1등하면 금 준다는데... 1등 해보고 싶다..
 * 이거 끝나면 다른 것도 스크래핑 해볼까?
+
+```toc
+```
