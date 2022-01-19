@@ -17,7 +17,7 @@ categories: KPT PROJECT
 ### 1-1. 결과물 🕶
 1. 숫자 이미지 인식 모델(Neural Network)
    - 신경망 네트워크 모델에 MNIST(숫자 손글씨 이미지) 데이터를 학습 시켜 Captcha 구현   
-   - 98.19% 정확도
+   - `98.19%` 정확도
      - train_data_set: 60,000 개
      - test_data_set: 10,000 개
 ![사진](./captcha.gif)   
@@ -30,7 +30,7 @@ ___
 ___
 4. 음식 사진 인식 모델(InceptionV3)
     - InceptionV3 모델을 바탕으로 82개의 라벨을 가진 음식 사진을 학습 시켜 자동 추천 태그 구현
-    - 82.57% 정확도
+    - `82.57%` 정확도
       - train_data_set: 70,547 개
       - test_data_set: 12,521 개
 ![사진](./auto-recommend-tag.gif)   
