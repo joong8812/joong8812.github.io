@@ -73,7 +73,9 @@ def logout(request):
 ```
 ___
 
-필요한 더 많은 정보는 [Django 공식홈페이지](https://docs.djangoproject.com/en/4.0/topics/auth/default/#auth-web-requests) 에서 찾아보자!
+관련하여 더 많은 정보는 아래에서 찾아보자!   
+[Substituting a custom User model](https://docs.djangoproject.com/en/4.0/topics/auth/customizing/#substituting-a-custom-user-model)   
+[Using the Django authentication system](https://docs.djangoproject.com/en/4.0/topics/auth/default/#using-the-django-authentication-system)
 
 ## 총평
 * 장고(Django)에서 제공한 AbstractUser클래스로 나만의 유저모델을 만들고, Authentication기능을 사용하여 로그인, 로그아웃, 유효한 유저인지 확인하는 기능 등을 쉽게 구현 할 수 있었다.
