@@ -1,6 +1,6 @@
 module.exports = {
   title: `joong8812.github.io`,
-  description: `비럽코더의 개발일기`,
+  description: `코딩쿠니의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://joong8812.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `개발자`,
       description: ['사람을 좋아하는', '열정적으로 일하는', '유익을 만드는'],
-      thumbnail: 'sample.png', // Path to the image in the 'asset' folder
+      thumbnail: 'Jungjae_memoticon.gif', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/joong8812`, // `https://github.com/joong8812`,
