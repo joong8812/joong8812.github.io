@@ -7,7 +7,7 @@ tags: TIL
 categories: BLOG 
 ---
 
-## Pycharm도 되는데 VScode는 안되나요?
+## Pycharm은 되는데 VScode는 안되나요?
 오늘 수업시간에 Django에서 테스트코드를 작성하고 명령어 `$python manage.py test` 로 테스트 하는 법을 배웠다. 그리고 Pycharm에서 간단하게 설정 몇개를 하더니 단위(함수)별로 버튼 하나로 테스트와 디버깅이 가능한 것을 보았다. 내가 사용하고 있는 VScode에서도 동일한 방법으로 테스트를 하고 싶었다. 몇시간에 걸친 혈투 끝에 해답을 찾았다.
 
 ## VScode에서 Django 단위 테스트 해보자
