@@ -15,7 +15,7 @@ categories: BLOG
 1. vscode 왼쪽 탭에 플라스크 아이콘(Testing)을 누른다
 2. 그리고 `Configure Python Tests` 버튼을 누른다 
 ![환경설정1](setting1.png)   
-3. `unittest`를 선택한다. (테스트 코드가 uniitest 방식으로 작성되어 있다)
+3. `unittest`를 선택한다. (테스트 코드가 unittest 방식으로 작성되어 있다)
 ![환경설정2](setting2.png)   
 4. 테스트 파일이 있는 경로를 설정 한다. 여기서는 Root(.)으로 하겠다
 ![환경설정3](setting3.png)   
