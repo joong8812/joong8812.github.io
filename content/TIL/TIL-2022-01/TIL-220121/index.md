@@ -1,6 +1,6 @@
 ---
 emoji: 💿
-title: Today I Learned - 220121
+title: 데이터베이스 간 관계
 date: '2022-01-21 14:30:00'
 author: 코딩쿠니
 tags: TIL DJANGO DB

@@ -1,6 +1,6 @@
 ---
 emoji: 😵
-title: Today I Learned - 211230
+title: (TIL) 어제 보다 나은 오늘 - 생각
 date: '2021-12-30 23:00:00'
 author: 코딩쿠니
 tags: TIL TeamProject 

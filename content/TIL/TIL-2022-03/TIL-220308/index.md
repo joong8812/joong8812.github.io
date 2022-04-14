@@ -1,6 +1,6 @@
 ---
 emoji: 🧳
-title: Today I Learned - 220308
+title: (TIL) 풀고 싶은 문제에 대하여 - 생각
 date: '2022-03-08 22:59:59'
 author: 코딩쿠니
 tags: TIL 

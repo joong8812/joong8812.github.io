@@ -1,6 +1,6 @@
 ---
 emoji: 😛
-title: Week I Learned - 2112-week4
+title: (WIL) 매일 매일 챌린지가 있었다 외 - 2112 week4
 date: '2021-12-26 10:00:00'
 author: 코딩쿠니
 tags: WIL

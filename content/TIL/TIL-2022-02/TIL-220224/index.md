@@ -1,6 +1,6 @@
 ---
 emoji: 💁🏻
-title: Today I Learned - 220224
+title: (TIL) 사용자 경험이 좋고, 재밌는 앱 - 생각
 date: '2022-02-24 22:50:59'
 author: 코딩쿠니
 tags: TIL 

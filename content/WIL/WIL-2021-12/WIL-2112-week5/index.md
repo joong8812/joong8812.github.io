@@ -1,6 +1,6 @@
 ---
 emoji: ☀️
-title: Week I Learned - 2112-week5
+title: (WIL) 팀 변경 및 팀장 외 - 2112 week5
 date: '2022-01-02 10:00:00'
 author: 코딩쿠니
 tags: WIL

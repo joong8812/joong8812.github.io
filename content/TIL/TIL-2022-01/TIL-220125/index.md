@@ -1,6 +1,6 @@
 ---
 emoji: 👊
-title: Today I Learned - 220125
+title: (TIL) 과연 우리는 어떤 프로젝트를? 외 - 생각
 date: '2022-01-25 21:30:00'
 author: 코딩쿠니
 tags: TIL 

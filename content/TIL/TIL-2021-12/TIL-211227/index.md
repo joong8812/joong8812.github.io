@@ -1,6 +1,6 @@
 ---
 emoji: ♾
-title: Today I Learned - 211227
+title: 핵심 쏙쏙 Git 숙제 - Git, Github 개념 및 기본 명렁어
 date: '2021-12-27 14:00:00'
 author: 코딩쿠니
 tags: TIL Git

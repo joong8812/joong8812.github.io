@@ -1,6 +1,6 @@
 ---
 emoji: ☀️
-title: Week I Learned - 2112-week3
+title: (WIL) 스파르타 내배캠 시작 - 2112 week3
 date: '2021-12-18 15:00:00'
 author: 코딩쿠니
 tags: WIL

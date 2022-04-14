@@ -1,6 +1,6 @@
 ---
 emoji: 🥐
-title: Today I Learned - 220120
+title: 장고(Django) Authentication 사용 해 보기
 date: '2022-01-20 18:30:00'
 author: 코딩쿠니
 tags: TIL DJANGO

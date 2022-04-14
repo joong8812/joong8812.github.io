@@ -1,6 +1,6 @@
 ---
 emoji: 🙃
-title: Today I Learned - 220114
+title: (TIL) 하루를 돌아보며 - 경험&생각
 date: '2022-01-14 23:59:59'
 author: 코딩쿠니
 tags: TIL TeamProject

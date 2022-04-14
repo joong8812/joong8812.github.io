@@ -1,6 +1,6 @@
 ---
 emoji: 🍸
-title: Week I Learned - 2204-week1
+title: (WIL) 고객 피드백 외 - 2204 week1
 date: '2022-04-09 23:59:00'
 author: 코딩쿠니
 tags: WIL

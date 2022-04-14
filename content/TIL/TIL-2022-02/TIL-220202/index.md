@@ -1,6 +1,6 @@
 ---
 emoji: 🌱
-title: Today I Learned - 220202
+title: (TIL) 소셜 로그인 연동 - 경험&생각
 date: '2022-02-02 23:20:00'
 author: 코딩쿠니
 tags: TIL 

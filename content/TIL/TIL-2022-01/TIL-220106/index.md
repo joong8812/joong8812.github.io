@@ -1,6 +1,6 @@
 ---
 emoji: 👐
-title: Today I Learned - 220106
+title: 머신러닝 1주차 숙제 - 연차,연봉 데이터셋으로 선형회귀 모델 구현
 date: '2022-01-06 14:00:00'
 author: 코딩쿠니
 tags: TIL AI Regression Colab

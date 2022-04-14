@@ -1,6 +1,6 @@
 ---
 emoji: 🔥
-title: Today I Learned - 220112
+title: (TIL) 2번째 팀프로젝트 시작 - 생각
 date: '2022-01-12 21:30:00'
 author: 코딩쿠니
 tags: TIL TeamProject

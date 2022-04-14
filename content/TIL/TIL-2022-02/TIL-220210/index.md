@@ -1,6 +1,6 @@
 ---
 emoji: 👻
-title: Today I Learned - 220210
+title: (TIL) 정리 정리 정리! - 생각
 date: '2022-02-10 23:59:59'
 author: 코딩쿠니
 tags: TIL 

@@ -1,6 +1,6 @@
 ---
 emoji: 😺
-title: Today I Learned - 220127
+title: (TIL) AWS 신기하다, 크롤링 재밌다 - 경험&생각
 date: '2022-01-27 23:59:59'
 author: 코딩쿠니
 tags: TIL 

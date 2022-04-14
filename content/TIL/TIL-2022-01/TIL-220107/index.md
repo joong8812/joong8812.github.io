@@ -1,6 +1,6 @@
 ---
 emoji: 🧠
-title: Today I Learned - 220107
+title: 머신러닝 3주차 숙제 - 숫자이미지 데이터셋으로 딥러닝 모델 구현
 date: '2022-01-07 18:00:00'
 author: 코딩쿠니
 tags: TIL AI DeepLearning Colab
@@ -12,7 +12,7 @@ ___
 
 > **❓** 문제
 >
-> 손으로 쓴 [0~9 숫자 이미지 데이터셋](https://www.kaggle.com/oddrationale/mnist-in-csv)으로 딥러닝(Depp Laerning) 모델 구현하기 
+> 손으로 쓴 [0~9 숫자 이미지 데이터셋](https://www.kaggle.com/oddrationale/mnist-in-csv)으로 딥러닝(Deep Laerning) 모델 구현하기 
 
 ## 1. 필요한 데이터셋 다운 및 패키지 import
 ```python

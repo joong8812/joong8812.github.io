@@ -1,6 +1,6 @@
 ---
 emoji: 😎
-title: Week I Learned - 2201-week2
+title: (WIL) 두번째 팀프로젝트 시작 외 - 2201 week2
 date: '2022-01-16 23:59:00'
 author: 코딩쿠니
 tags: WIL

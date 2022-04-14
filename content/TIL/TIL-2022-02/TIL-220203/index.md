@@ -1,6 +1,6 @@
 ---
 emoji: 🐿
-title: Today I Learned - 220203
+title: (TIL) 데이터가 필요해 - 생각
 date: '2022-02-03 23:20:00'
 author: 코딩쿠니
 tags: TIL 

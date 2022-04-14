@@ -1,6 +1,6 @@
 ---
 emoji: 🐡
-title: Today I Learned - 220216
+title: 좋아요 동시성 처리 - Django, F() expressions
 date: '2022-02-16 23:59:59'
 author: 코딩쿠니
 tags: TIL 

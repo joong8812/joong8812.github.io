@@ -1,6 +1,6 @@
 ---
 emoji: ⌛️
-title: Today I Learned - 220111
+title: Job리스트 스크래핑 - 3
 date: '2022-01-11 21:30:00'
 author: 코딩쿠니
 tags: TIL Python WebScraping

@@ -1,6 +1,6 @@
 ---
 emoji: 👟
-title: Week I Learned - 2203-week3
+title: (WIL) 뚝딱뚝딱 외 - 2203 week3
 date: '2022-03-19 17:20:00'
 author: 코딩쿠니
 tags: WIL

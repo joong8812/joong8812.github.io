@@ -1,6 +1,6 @@
 ---
 emoji: 🐩
-title: Week I Learned - 2202-week3
+title: (WIL) 학습 시간이 늘었다 그런데 고민도 ... - 2202 week3
 date: '2022-02-19 14:30:00'
 author: 코딩쿠니
 tags: WIL

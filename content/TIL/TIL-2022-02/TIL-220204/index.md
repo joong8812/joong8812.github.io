@@ -1,6 +1,6 @@
 ---
 emoji: 🐈
-title: Today I Learned - 220204
+title: (TIL) DB에 데이터 넣기 - 생각
 date: '2022-02-03 23:40:00'
 author: 코딩쿠니
 tags: TIL 

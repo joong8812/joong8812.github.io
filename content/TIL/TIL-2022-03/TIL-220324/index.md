@@ -1,6 +1,6 @@
 ---
 emoji: 🐨
-title: Today I Learned - 220324
+title: (TIL) AWS SSL인증서, CodePipeline
 date: '2022-03-24 22:30:59'
 author: 코딩쿠니
 tags: TIL AWS HTTPS EB Codepipeline Route53 SSL

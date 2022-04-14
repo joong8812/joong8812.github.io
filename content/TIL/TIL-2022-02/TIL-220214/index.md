@@ -1,6 +1,6 @@
 ---
 emoji: 🦁
-title: Today I Learned - 220214
+title: (TIL) Django TDD 맛보기 - 생각
 date: '2022-02-14 21:30:59'
 author: 코딩쿠니
 tags: TIL 

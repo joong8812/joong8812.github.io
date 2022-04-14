@@ -1,6 +1,6 @@
 ---
 emoji: 🥲
-title: Today I Learned - 220113
+title: (TIL) 거만 했다(?) - 경험&생각
 date: '2022-01-13 22:00:00'
 author: 코딩쿠니
 tags: TIL TeamProject

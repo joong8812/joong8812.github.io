@@ -1,6 +1,6 @@
 ---
 emoji: 🍄
-title: Week I Learned - 2203-week4
+title: (WIL) 프론트 VS 백엔드 외 - 2203 week4
 date: '2022-03-27 09:00:00'
 author: 코딩쿠니
 tags: WIL

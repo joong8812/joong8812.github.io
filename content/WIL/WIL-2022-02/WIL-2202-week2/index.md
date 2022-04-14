@@ -1,6 +1,6 @@
 ---
 emoji: 🐥
-title: Week I Learned - 2202-week2
+title: (WIL) 절반이 흘렀다 - 2202 week2
 date: '2022-02-12 23:50:00'
 author: 코딩쿠니
 tags: WIL

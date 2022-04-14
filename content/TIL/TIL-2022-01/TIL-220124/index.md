@@ -1,6 +1,6 @@
 ---
 emoji: 🥺
-title: Today I Learned - 220124
+title: (TIL) Djnago, EC2, PostreSQL 세팅 쉽지 않다 외 - 경험&생각 
 date: '2022-01-24 23:59:00'
 author: 코딩쿠니
 tags: TIL 

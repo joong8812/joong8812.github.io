@@ -1,6 +1,6 @@
 ---
 emoji: 😵‍💫
-title: Today I Learned - 220126
+title: (TIL) 추천 시스템 강의 외 - 경험&생각
 date: '2022-01-26 23:30:00'
 author: 코딩쿠니
 tags: TIL 

@@ -1,6 +1,6 @@
 ---
 emoji: 🥲
-title: Today I Learned - 220128
+title: (TIL) 휴, 다행이다 - 생각
 date: '2022-01-28 23:59:59'
 author: 코딩쿠니
 tags: TIL 

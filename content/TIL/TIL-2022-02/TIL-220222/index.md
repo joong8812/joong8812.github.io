@@ -1,6 +1,6 @@
 ---
 emoji: 🤛
-title: Today I Learned - 220222
+title: (TIL) 4번째 팀 프로젝트 시작 - 생각
 date: '2022-02-22 23:59:59'
 author: 코딩쿠니
 tags: TIL 

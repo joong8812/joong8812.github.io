@@ -1,6 +1,6 @@
 ---
 emoji: 🦀
-title: 오늘 알게 된 Django 미세정보
+title: 오늘 알게 된 Django 미세정보 - Render, Redirect, @login_required
 date: '2022-02-18 22:00:59'
 author: 코딩쿠니
 tags: TIL Django

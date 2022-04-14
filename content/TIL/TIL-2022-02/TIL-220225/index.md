@@ -1,6 +1,6 @@
 ---
 emoji: 🧎🏻
-title: Today I Learned - 220225
+title: (TIL) lazy loading 처음 들어봄 - 생각
 date: '2022-02-25 23:59:59'
 author: 코딩쿠니
 tags: TIL 

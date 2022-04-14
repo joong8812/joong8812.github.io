@@ -1,6 +1,6 @@
 ---
 emoji: 🧦
-title: Week I Learned - 2203-week1
+title: (WIL) 모바일용 웹 어플레케이션 이란? 외 - 2203 week1
 date: '2022-03-05 11:15:00'
 author: 코딩쿠니
 tags: WIL

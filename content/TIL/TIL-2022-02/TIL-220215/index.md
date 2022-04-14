@@ -1,6 +1,6 @@
 ---
 emoji: 🦖
-title: Today I Learned - 220215
+title: (TIL) 코드리뷰, Django 폴더구조 - 생각
 date: '2022-02-15 23:00:59'
 author: 코딩쿠니
 tags: TIL 

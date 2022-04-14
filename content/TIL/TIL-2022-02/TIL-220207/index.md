@@ -1,6 +1,6 @@
 ---
 emoji: 😲
-title: Today I Learned - 220207
+title: (TIL) API 문서 작성 - 생각
 date: '2022-02-07 23:59:59'
 author: 코딩쿠니
 tags: TIL 

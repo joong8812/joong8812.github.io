@@ -1,6 +1,6 @@
 ---
 emoji: 👐
-title: Today I Learned - 220105
+title: 내가 정리한 Git 개념지도 - PR, Amend, Revert, Reset, Stash
 date: '2022-01-05 16:20:00'
 author: 코딩쿠니
 tags: TIL Git Github Opensource

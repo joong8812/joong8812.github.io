@@ -1,6 +1,6 @@
 ---
 emoji: 🥽
-title: Today I Learned - 220228
+title: (TIL) 오늘 무엇을 했었나? - 열거
 date: '2022-02-28 23:59:59'
 author: 코딩쿠니
 tags: TIL 

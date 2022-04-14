@@ -1,6 +1,6 @@
 ---
 emoji: 😱
-title: Today I Learned - 211228
+title: (TIL) 대격변 (첫 팀프로젝트) 외 - 경험&생각
 date: '2021-12-28 23:00:00'
 author: 코딩쿠니
 tags: TIL TeamProject Wireframe Rest Git

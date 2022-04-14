@@ -1,6 +1,6 @@
 ---
 emoji: 🪁
-title: Week I Learned - 2202-week1
+title: (WIL) 새로운 챌린지의 연속 외 - 2202 week1
 date: '2022-02-06 23:50:00'
 author: 코딩쿠니
 tags: WIL

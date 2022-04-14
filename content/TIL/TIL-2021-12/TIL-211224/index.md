@@ -1,6 +1,6 @@
 ---
 emoji: 📸
-title: Today I Learned - 211224
+title: 인스타그램 모바일 화면 만들기 - html, css
 date: '2021-12-24 21:00:00'
 author: 코딩쿠니
 tags: TIL html css Project Instagram

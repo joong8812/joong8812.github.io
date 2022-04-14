@@ -1,6 +1,6 @@
 ---
 emoji: 🐠
-title: Week I Learned - 2203-week5
+title: (WIL) 자동 배포 외 - 2203 week5
 date: '2022-04-02 23:00:00'
 author: 코딩쿠니
 tags: WIL

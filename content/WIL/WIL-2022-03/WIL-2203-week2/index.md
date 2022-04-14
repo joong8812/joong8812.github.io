@@ -1,6 +1,6 @@
 ---
 emoji: 🪵
-title: Week I Learned - 2203-week2
+title: (WIL) 다다익선 - 2203 week2
 date: '2022-03-12 11:15:00'
 author: 코딩쿠니
 tags: WIL

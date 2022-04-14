@@ -1,6 +1,6 @@
 ---
 emoji: 🚀
-title: Week I Learned - 2201-week3
+title: (WIL) 장고(Django) 수업 시작 외 - 2201 week3
 date: '2022-01-22 22:30:00'
 author: 코딩쿠니
 tags: WIL

@@ -1,6 +1,6 @@
 ---
 emoji: 🍬
-title: Today I Learned - 220119
+title: 장고(Djnago)는 뭘까?
 date: '2022-01-19 21:00:00'
 author: 코딩쿠니
 tags: TIL DJANGO

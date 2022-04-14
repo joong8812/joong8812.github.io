@@ -1,6 +1,6 @@
 ---
 emoji: 👏
-title: Today I Learned - 211231
+title: (TIL) 부딪히며 배우다 외 - 생각
 date: '2021-12-31 22:00:00'
 author: 코딩쿠니
 tags: TIL TeamProject 

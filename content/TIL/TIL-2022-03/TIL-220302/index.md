@@ -1,6 +1,6 @@
 ---
 emoji: 💂‍♀️
-title: Today I Learned - 220302
+title: (TIL) - 작은 디테일도 쉽지 않구나 - 생각
 date: '2022-03-02 23:59:59'
 author: 코딩쿠니
 tags: TIL 

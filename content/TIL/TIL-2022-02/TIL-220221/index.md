@@ -1,6 +1,6 @@
 ---
 emoji: 🦜
-title: Today I Learned - 220221
+title: (TIL) 환경설정 하다가 시간 다 갔다 - 생각
 date: '2022-02-21 23:59:59'
 author: 코딩쿠니
 tags: TIL Django NST 스파르타코딩클럽

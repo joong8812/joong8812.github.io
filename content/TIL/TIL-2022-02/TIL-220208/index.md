@@ -1,6 +1,6 @@
 ---
 emoji: 👁
-title: Today I Learned - 220208
+title: (TIL) 머리가 멈췄다! - 생각
 date: '2022-02-08 23:59:59'
 author: 코딩쿠니
 tags: TIL 

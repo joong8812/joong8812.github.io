@@ -1,6 +1,6 @@
 ---
 emoji: 🙊
-title: Today I Learned - 211229
+title: (TIL) css 순서가 중요하다 외 - 경험&생각
 date: '2021-12-29 23:00:00'
 author: 코딩쿠니
 tags: TIL TeamProject Flask Github

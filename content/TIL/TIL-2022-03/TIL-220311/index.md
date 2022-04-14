@@ -1,6 +1,6 @@
 ---
 emoji: 👑
-title: Today I Learned - 220311
+title: (TIL) 최종프로젝트 S.A 작성 후 느낀점
 date: '2022-03-11 22:59:59'
 author: 코딩쿠니
 tags: TIL 
