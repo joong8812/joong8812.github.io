@@ -27,6 +27,7 @@ module.exports = {
         env: {
           production: {
             policy: [{ userAgent: '*' }],
+            sitemap: 'https://joong8812.github.io/sitemap-pages.xml'
           },
           'branch-deploy': {
             policy: [{ userAgent: '*', disallow: ['/'] }],

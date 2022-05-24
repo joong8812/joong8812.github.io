@@ -1,7 +1,7 @@
 ---
 emoji: 👻
 title: DeepbrainAI 아카데미 프로젝트(AI 박물관 가이드) - KPT회고
-date: '2022-04-24 11:00:00'
+date: '2022-05-24 15:35:00'
 author: 코딩쿠니
 tags: KPT DEEPBRAINAI PROJECT
 categories: KPT PROJECT

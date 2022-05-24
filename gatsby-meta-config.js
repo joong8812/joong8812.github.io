@@ -58,8 +58,8 @@ module.exports = {
         },
       },
       {
-        date: '2022.04 ~ ',
-        activity: 'DeepBrainAI 풀스택 아카데미 3기 교육 수강 중',
+        date: '2022.04 ~ 05',
+        activity: 'DeepBrainAI 풀스택 아카데미 3기',
         links: {
         },
       },
