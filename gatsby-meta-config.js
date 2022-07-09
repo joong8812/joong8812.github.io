@@ -43,24 +43,27 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
+        date: '2022.07 ~ ',
+        activity: '원티드 프리온보딩 - 프론트엔드 5기',
+        links: {},
+      },
+      {
+        date: '2022.04 ~ 05',
+        activity: 'DeepBrainAI 풀스택 아카데미 3기',
+        links: {},
+      },
+      {
+        date: '2021.12 ~ 2022.04',
+        activity: '스파르타코딩클럽 AI 웹개발 1기',
+        links: {},
+      },
+      {
         date: '2021.12 ~',
         activity: '개인 블로그 운영',
         links: {
           post: '/TIL/TIL-2021-12/TIL-211213/',
           github: 'https://github.com/joong8812/joong8812.github.io',
           demo: 'https://joong8812.github.io',
-        },
-      },
-      {
-        date: '2021.12 ~ 2022.04',
-        activity: '스파르타코딩클럽 AI 웹개발 1기',
-        links: {
-        },
-      },
-      {
-        date: '2022.04 ~ 05',
-        activity: 'DeepBrainAI 풀스택 아카데미 3기',
-        links: {
         },
       },
     ],
@@ -99,7 +102,16 @@ module.exports = {
         title: '미정의 스케치북 - 팀프로젝트',
         description:
           'NST(Neural Style Tranfer) 기술을 사용하여 유저가 올린 이미지에 선택 된 명화의 스타일을 입혀주는 서비스. 자신이 만든 새로운 명화를 저장하고 공유할 수도 있습니다. 주로 프론트를 담당하였고, 해당 프로젝트에서 두 서버(앱<->AI)간 통신을 경험 하였습니다.',
-        techStack: ['Javascript', 'CSS', 'HTML', 'AWS', 'Tensorflow', 'Python', 'Django', 'Django Ninja'],
+        techStack: [
+          'Javascript',
+          'CSS',
+          'HTML',
+          'AWS',
+          'Tensorflow',
+          'Python',
+          'Django',
+          'Django Ninja',
+        ],
         thumbnailUrl: 'x-sketchbook.png',
         links: {
           post: '/Project/team-project-4',
@@ -111,7 +123,16 @@ module.exports = {
         title: '설날에 뭐보지? - 팀프로젝트',
         description:
           '2005년 이후 개봉한 약 1600여개의 국내영화를 기반으로 유저가 좋아할 만한 영화를 추천해 줍니다. 네이버 영화 크롤링 및 해당 데이터로 아이템 기반 필터링, 협업 필터링 모델 구현을 해 보았습니다. 또 넷플릭스와 같이 마우스오버시 선택된 이미지가 확장하며 영화 트레일러가 재생되도록 구현해보았습니다.',
-        techStack: ['Python', 'Django', 'Javascript', 'CSS', 'HTML', 'Colab', 'Scikit-Learn', 'AWS'],
+        techStack: [
+          'Python',
+          'Django',
+          'Javascript',
+          'CSS',
+          'HTML',
+          'Colab',
+          'Scikit-Learn',
+          'AWS',
+        ],
         thumbnailUrl: 'whatareyou-watching-on-seolnal.png',
         links: {
           post: '/Project/team-project-3',
