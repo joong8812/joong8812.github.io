@@ -1,6 +1,6 @@
 module.exports = {
   title: `joong8812.github.io`,
-  description: `코딩쿠니의 개발일기`,
+  description: `최중재(aziel)의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://joong8812.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
